@@ -1,2 +1,2 @@
-# drnec_MQ9
-Hackaton 23.11.2022
+# MQ-9 a MQ-2
+## Senzor na detekci plynů
